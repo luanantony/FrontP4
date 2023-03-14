@@ -17,4 +17,6 @@ React.JS é uma biblioteca JavaScript utilizada para construir interfaces de usu
 Neste repositório, você encontrará algumas atividades desenvolvidas durante a disciplina de Front End III, como projetos desenvolvidos utilizando React.js, códigos de exemplo de utilização de algumas funcionalidades da biblioteca, entre outros.
 
 Fique à vontade para explorar e aprender mais sobre as tecnologias utilizadas nesta disciplina! 😄
+
+
 Criado por [Luan Antony](https://github.com/luanantony) 🤖
